@@ -1,0 +1,10 @@
+const bool = true;
+displayThisText(bool);
+const string = "forty two";
+displayThisText(string);
+const integer = 42;
+displayThisText(integer);
+const this_is_null = null;
+displayThisText(this_is_null);
+const float = 42.42;
+displayThisText(float);
