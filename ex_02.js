@@ -1,10 +1,10 @@
-const bool = true;
-displayThisText(bool);
+let bool = true;
 const string = "forty two";
-displayThisText(string);
-const integer = 42;
-displayThisText(integer);
+let integer = 42;
 const this_is_null = null;
-displayThisText(this_is_null);
-const float = 42.42;
+let float = 42.42;
+displayThisText(bool);
+displayThisText(string);
+displayThisText(integer);
 displayThisText(float);
+displayThisText(this_is_null);
