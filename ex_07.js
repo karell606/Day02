@@ -1,3 +1,5 @@
-if (password == "forty-two")
-displayThisText("Sucess");
-else displayThisText("Wrong password");
+if (password === "forty-two") {
+  displayThisText("Sucess");
+} else {
+  displayThisText("Wrong password");
+}
